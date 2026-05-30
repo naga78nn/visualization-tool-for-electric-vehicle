@@ -1,97 +1,70 @@
+```md
 # ⚡ Electric Vehicle Charge & Range Analysis
 
-An interactive data analytics project developed using Tableau to analyze electric vehicle charging performance, battery efficiency, energy consumption, and driving range. The project provides meaningful insights through dashboards and visual reports.
-
----
-
 ## 📌 Overview
-
-This project focuses on analyzing Electric Vehicle (EV) data to understand factors affecting vehicle range, charging time, battery performance, and efficiency. Interactive dashboards help users explore trends and compare EV performance effectively.
+Electric Vehicle Charge & Range Analysis is a Tableau-based data analytics project used to analyze EV charging performance, battery efficiency, energy consumption, and driving range through interactive dashboards and visual reports.
 
 ---
 
 ## ✨ Features
-
-* Interactive Tableau Dashboards
-* EV Charging Analysis
-* Battery Performance Tracking
-* Range & Efficiency Comparison
-* KPI and Trend Analysis
-* Data Visualization with Charts & Graphs
-* User-friendly Dashboard Design
+- Interactive Tableau Dashboards  
+- EV Charging Analysis  
+- Battery Performance Tracking  
+- Range & Efficiency Comparison  
+- KPI and Trend Analysis  
+- Data Visualization with Charts & Graphs  
 
 ---
 
 ## 🛠️ Tools & Technologies
-
-* Tableau
-* Microsoft Excel / CSV Dataset
-* Data Analytics
-* Data Visualization Techniques
+- Tableau  
+- Microsoft Excel / CSV Dataset  
+- Data Analytics  
+- Data Visualization Techniques  
 
 ---
 
 ## 📊 Dashboard Insights
-
-* Comparison of EV range by vehicle brand
-* Charging time and efficiency analysis
-* Energy consumption trends
-* Battery capacity and performance insights
-* Top-performing EV models visualization
+- EV range comparison by brand  
+- Charging efficiency analysis  
+- Battery performance tracking  
+- Energy consumption trends  
+- Top-performing EV models visualization  
 
 ---
 
 ## 🎯 Key Skills
-
-* Data Analytics
-* Tableau
-* Data Visualization
-* Dashboard Development
-* Exploratory Data Analysis (EDA)
-* KPI Analysis
-* Trend Analysis
+- Data Analytics  
+- Tableau  
+- Data Visualization  
+- Dashboard Development  
+- Exploratory Data Analysis (EDA)  
+- KPI Analysis  
 
 ---
 
 ## 📂 Project Workflow
-
-1. Data Collection
-2. Data Cleaning & Preparation
-3. Data Visualization in Tableau
-4. Dashboard Creation
-5. Insight Generation & Analysis
-
----
-
-## 📱 Dashboard Features
-
-* Interactive Filters
-* Dynamic Charts
-* Comparative Analysis
-* KPI Cards
-* Trend Visualization
+1. Data Collection  
+2. Data Cleaning & Preparation  
+3. Dashboard Creation in Tableau  
+4. Data Visualization  
+5. Insight Generation  
 
 ---
 
 ## 🚀 Conclusion
-
-This project demonstrates how data analytics and visualization techniques can be used to analyze Electric Vehicle charging behavior and driving range efficiently using Tableau dashboards.
+This project demonstrates how Tableau dashboards can be used to analyze Electric Vehicle charging behavior and range performance effectively.
 
 ---
 
 ## 👨‍💻 Developer
-
 **Naga Lakshmi Kuppala**
 
-* GitHub: https://github.com/naga78nn
-* Email: [nagalakshmikuppalampc2020@gmail.com](mailto:nagalakshmikuppalampc2020@gmail.com)
+- GitHub: https://github.com/naga78nn  
+- Email: nagalakshmikuppalampc2020@gmail.com  
 
 ---
 
 ## 📄 License
-
 This project is for educational and analytical purposes.
-
----
-
-© 2026 Electric Vehicle Charge & Range Analysis Project
+```
